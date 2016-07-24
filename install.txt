@@ -1,0 +1,14 @@
+http://www.egret.com/products/engine.html
+https://github.com/egret-labs/egret-core
+Egret Wing 3
+/Users/whj/mygo/src/git.code4.in/h5doc/GuangZhouFish/Egret
+npm install -g grunt
+nodejs
+grunt
+/Users/whj/mygo/src/git.code4.in/unilib_src
+grunt
+
+Res Depot
+
+egret build -e
+
