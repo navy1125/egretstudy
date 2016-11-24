@@ -10,5 +10,9 @@ grunt
 
 Res Depot
 
+egret upgrade
+
 egret build -e
+
+git clone https://github.com/egret-labs/egret-game-library.git
 
